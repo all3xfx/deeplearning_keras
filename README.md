@@ -1,5 +1,5 @@
 # Implementações feitas do livro
-# Aprendizado de máquina profundo com Keras
+## Aprendizado de máquina profundo com Keras
 
 Este é o repositório de código para Deep Learning com Keras. Ele contém todos os arquivos de projetos de exemplos implementados do livro.
 
